@@ -1,0 +1,6 @@
+{
+  "name": "VoyageAI",
+  "description": "An award-winning interactive AI Travel Planner, Consultant, and Budget Optimizer that crafts hyper-personalized, practical itineraries and budget plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
